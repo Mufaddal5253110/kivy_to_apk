@@ -2,8 +2,8 @@
 
 Hello friends,
   I have made Pong Game in Kivy and I have search to conversion to apk but it take me up to 3 days to figure out how to convert it into apk.
-  Because some there are different method of conversion available. I have tried all methods separately and in each method there are some errors comes for me.
-  I am telling that all methods are wrong for some people it might work. But I have seen in each method most people facing some problem.
+  Because there are different method of conversion available. I have tried all methods separately and in each method there are some errors comes for me.
+  I am not telling that all methods are wrong for some people it might work. But I have seen in each method some people are facing some problem.
   
   Now I Have concluded a method best of over the other methods. I think it will work for all kivy files.
   
